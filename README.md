@@ -2,7 +2,9 @@
 
 
 Poetry App
-![Screenshot_20220605_113851](https://user-images.githubusercontent.com/76611060/172038385-311c2d9e-8441-454e-b229-6b0842287bd1.png |width=40px height=400px)
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/76611060/172038385-311c2d9e-8441-454e-b229-6b0842287bd1.png)" width="200" />
+
+![Screenshot_20220605_113851](https://user-images.githubusercontent.com/76611060/172038385-311c2d9e-8441-454e-b229-6b0842287bd1.png )
 
 Delete Data
 ![delete](https://user-images.githubusercontent.com/76611060/172038947-73cdaea0-fdf6-43ad-a9dd-f58285bfafe0.png)

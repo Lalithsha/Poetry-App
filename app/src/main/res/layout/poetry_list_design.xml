@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/lightGray"
+    android:layout_margin="5dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="30dp"
+        android:id="@+id/textView_poetName"
+        android:text="Carol Snow"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:textSize="18sp"
+        android:gravity="center_vertical"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="60dp"
+        android:id="@+id/textView_poetryData"
+        android:text="Near a shrine in Japan he'd swept the path
+and then placed camellia blossoms there.Or—we had no way of knowing—he'd swept the path
+between fallen camellias."
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="60dp"
+
+
+
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="20dp"
+        android:id="@+id/textView_poetryDataAndTime"
+        android:text="10-05-2022"
+        android:gravity="center_vertical|right"
+        android:padding="5dp"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:id="@+id/update_btn"
+            android:text="Update"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:background="@color/lightGray"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:id="@+id/delete_btn"
+            android:text="Delete"
+            android:textAllCaps="false"
+            android:layout_weight="1"
+            android:layout_marginRight="2dp"
+            android:layout_marginLeft="2dp"
+            android:background="@color/lightGray"
+            />
+
+
+    </LinearLayout>
+
+</LinearLayout>

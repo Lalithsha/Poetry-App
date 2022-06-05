@@ -7,7 +7,7 @@ Poetry App
 
 
 # Delete Data
-<img src="https://user-images.githubusercontent.com/76611060/172038947-73cdaea0-fdf6-43ad-a9dd-f58285bfafe0.png" width="100"/>
+<img src="https://user-images.githubusercontent.com/76611060/172038947-73cdaea0-fdf6-43ad-a9dd-f58285bfafe0.png" width="250"/>
 ![delete](https://user-images.githubusercontent.com/76611060/172038947-73cdaea0-fdf6-43ad-a9dd-f58285bfafe0.png)
 
 Add Data
